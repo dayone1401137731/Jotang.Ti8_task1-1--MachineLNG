@@ -6,7 +6,7 @@
 不过，这还不是AI的巅峰。
 
 现在OpenAI又训练出了一个全新的AI，名叫Rerun。面对碾压OG的OpenAI Five，Rerun的胜率达到了……呃……**98%**。
-![avatar](http://pic.rmb.bdstatic.com/1f3ab02acbfe18d1e9584144152732165402.gif)
+![](http://pic.rmb.bdstatic.com/1f3ab02acbfe18d1e9584144152732165402.gif)
 
 这些AI并不是凭借着电脑的快速反应能力来获得与人类选手博弈的优势，而是通过上万把的对局总结出的比赛运营规律来进行决策，进而碾压人类选手。
 
@@ -19,7 +19,7 @@
 
 
 令我印象最深刻的是机器在进行操作时的处理:point_down:
-![avatar](http://pic.rmb.bdstatic.com/37b8d7f2838452dc6d07ccea0256adbf1974.gif)
+![](http://pic.rmb.bdstatic.com/37b8d7f2838452dc6d07ccea0256adbf1974.gif)
 
 
 这些组合起来的每一帧复杂操作都是通过其背后的神经网络所实现，这让我感到非常奇妙。
